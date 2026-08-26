@@ -60,11 +60,8 @@ const vishalGoswami = {
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalgoswami2007&theme=tokyo-night&hide_border=true" />
-</p>
+📈 Contribution Graph
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalgoswami2007&theme=react-dark&hide_border=true&area=true" /> </p>
 
 ---
 
