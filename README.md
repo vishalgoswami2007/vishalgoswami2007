@@ -60,9 +60,8 @@ const vishalGoswami = {
 
 ---
 
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalgoswami2007&theme=react-dark&hide_border=true&area=true" /> </p>
-
+🌐 3D Contribution Graph
+<p align="center"> <img src="https://raw.githubusercontent.com/vishalgoswami2007/vishalgoswami2007/output/profile-3d-contrib/profile-night-rainbow.svg" /> </p>
 ---
 
 <p align="center">
