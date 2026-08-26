@@ -42,20 +42,8 @@ const vishalGoswami = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vishalgoswami2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalgoswami2007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalgoswami2007&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalgoswami2007&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+📊 GitHub Analytics
+<p align="center"> <img width="49%" src="https://github-stats-extended.vercel.app/api?username=vishalgoswami2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" /> <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vishalgoswami2007&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="60%" src="https://streak-stats.demolab.com?user=vishalgoswami2007&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vishalgoswami2007&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
 
 ---
 
@@ -67,16 +55,8 @@ const vishalGoswami = {
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/vishalgoswami2007/MineQueue">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalgoswami2007&repo=MineQueue&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/vishalgoswami2007/aerqon-company-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vishalgoswami2007&repo=aerqon-company-website&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+🚀 Featured Projects
+<p align="center"> <a href="https://github.com/vishalgoswami2007/MineQueue"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=vishalgoswami2007&repo=MineQueue&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/vishalgoswami2007/aerqon-company-website"> <img src="https://github-stats-extended.vercel.app/api/pin/?username=vishalgoswami2007&repo=aerqon-company-website&theme=tokyonight&hide_border=true" /> </a> </p>
 
 ---
 
